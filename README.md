@@ -46,7 +46,7 @@ This tool utilizes the Wingdings font to create the Checkbox and check graphics.
 ![Windows Example](images/example-windows.jpg)
 
 ### Mac Example:
-![Max Example](images/example-mac.jpg)
+![Mac Example](images/example-mac.jpg)
 
 ## Tips and Tricks
 
